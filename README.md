@@ -1,4 +1,6 @@
-# Djikstra's Algorithm to find the shortest path from a source vertex to a destination vertex.
+# Implementation of Djikstra's Algorithm in python
+
+## Djikstra's algo is used to find the shortest path from a source vertex to a destination vertex.
 
 ## Time complexity - O(m * n)
 
